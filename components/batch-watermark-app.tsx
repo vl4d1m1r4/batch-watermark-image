@@ -67,7 +67,7 @@ export default function BatchWatermarkApp() {
 
             ctx.drawImage(
               logoImg,
-              5,
+              10,
               mainImg.height - logoHeight - 5,
               logoWidth,
               logoHeight
